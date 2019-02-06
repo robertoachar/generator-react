@@ -1,0 +1,40 @@
+{
+  "name": "generator-react",
+  "version": "1.0.0",
+  "description": "Yeoman generator for React Apps.",
+  "author": "Roberto Achar <robertoachar@gmail.com>",
+  "homepage": "https://github.com/robertoachar/generator-react#readme",
+  "keywords": [
+    "node"
+  ],
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "coverage": "jest --colors --coverage",
+    "coveralls": "npm run coverage && cat ./coverage/lcov.info | coveralls",
+    "jest": "jest --colors --verbose",
+    "lint": "eslint src/**/*.js test/**/*.js",
+    "start": "node src/index.js",
+    "test": "npm run lint && npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertoachar/generator-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertoachar/generator-react/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "24.0.0",
+    "coveralls": "3.0.2",
+    "eslint": "5.13.0",
+    "eslint-config-prettier": "4.0.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "jest": "24.1.0",
+    "prettier": "1.16.4"
+  },
+  "license": "MIT"
+}
