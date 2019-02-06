@@ -1,5 +1,5 @@
 {
-  "name": "generator-react",
+  "name": "@robertoachar/generator-react",
   "version": "1.0.0",
   "description": "Yeoman generator for React Apps.",
   "author": "Roberto Achar <robertoachar@gmail.com>",

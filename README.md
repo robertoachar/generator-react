@@ -76,7 +76,7 @@ $ npm install
 [circleci-url]: https://circleci.com/gh/robertoachar/generator-react
 [coveralls-badge]: https://coveralls.io/repos/github/robertoachar/generator-react/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/robertoachar/generator-react?branch=master
-[npm-badge]: https://img.shields.io/npm/v/generator-react.svg
-[npm-url]: https://www.npmjs.com/package/generator-react
+[npm-badge]: https://img.shields.io/npm/v/@robertoachar/generator-react.svg
+[npm-url]: https://www.npmjs.com/package/@robertoachar/generator-react
 [license-badge]: https://img.shields.io/github/license/robertoachar/generator-react.svg
 [license-url]: https://opensource.org/licenses/MIT
