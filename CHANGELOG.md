@@ -2,7 +2,7 @@
 
 ## v1.0.1
 
-- **docs**: update README (11ecbe889b859546c09b5ceeb35226c14f480fb8)
+- **docs**: update README
 
 ## v1.0.0
 
